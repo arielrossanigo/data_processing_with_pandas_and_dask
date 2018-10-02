@@ -7,6 +7,7 @@ A brief introduction to Pandas and Dask with examples.
 1. Clone this repository
 
     git clone git@github.com:arielrossanigo/data_processing_with_pandas_and_dask.git
+    cd data_processing_with_pandas_and_dask
 
 2. Install requirements
 
